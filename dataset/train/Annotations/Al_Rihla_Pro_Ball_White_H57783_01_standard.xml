@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>Al_Rihla_Pro_Ball_White_H57783_01_standard.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/Al_Rihla_Pro_Ball_White_H57783_01_standard.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>106</ymin>
+			<xmax>738</xmax>
+			<ymax>741</ymax>
+		</bndbox>
+	</object>
+</annotation>

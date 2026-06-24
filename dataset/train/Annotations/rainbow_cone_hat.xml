@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>rainbow_cone_hat.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/rainbow_cone_hat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>12</ymin>
+			<xmax>679</xmax>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+</annotation>

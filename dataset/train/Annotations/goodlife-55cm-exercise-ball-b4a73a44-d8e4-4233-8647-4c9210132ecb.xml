@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>goodlife-55cm-exercise-ball-b4a73a44-d8e4-4233-8647-4c9210132ecb.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/goodlife-55cm-exercise-ball-b4a73a44-d8e4-4233-8647-4c9210132ecb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>993</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>52</ymin>
+			<xmax>944</xmax>
+			<ymax>950</ymax>
+		</bndbox>
+	</object>
+</annotation>

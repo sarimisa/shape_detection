@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>61r6MrDh0jL._SL1500_.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/61r6MrDh0jL._SL1500_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1488</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>96</ymin>
+			<xmax>1000</xmax>
+			<ymax>1403</ymax>
+		</bndbox>
+	</object>
+</annotation>

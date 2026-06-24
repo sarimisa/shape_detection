@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>BCF_520209_hi-res.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/BCF_520209_hi-res.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>128</ymin>
+			<xmax>1067</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+</annotation>

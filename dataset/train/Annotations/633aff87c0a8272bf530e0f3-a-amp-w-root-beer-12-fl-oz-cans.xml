@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>633aff87c0a8272bf530e0f3-a-amp-w-root-beer-12-fl-oz-cans.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/633aff87c0a8272bf530e0f3-a-amp-w-root-beer-12-fl-oz-cans.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymin>66</ymin>
+			<xmax>1479</xmax>
+			<ymax>1323</ymax>
+		</bndbox>
+	</object>
+</annotation>

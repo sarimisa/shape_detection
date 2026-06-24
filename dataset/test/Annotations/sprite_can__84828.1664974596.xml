@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>sprite_can__84828.1664974596.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/sprite_can__84828.1664974596.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>32</ymin>
+			<xmax>963</xmax>
+			<ymax>1247</ymax>
+		</bndbox>
+	</object>
+</annotation>

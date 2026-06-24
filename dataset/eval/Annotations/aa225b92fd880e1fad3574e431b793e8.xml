@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>aa225b92fd880e1fad3574e431b793e8.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/aa225b92fd880e1fad3574e431b793e8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>417</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>84</ymin>
+			<xmax>276</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

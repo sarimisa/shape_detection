@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>party-hats-party-flying-tiger-copenhagen-247762.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/party-hats-party-flying-tiger-copenhagen-247762.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>61</ymin>
+			<xmax>790</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+</annotation>

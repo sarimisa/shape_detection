@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>heineken_heineken-can-beer--4-pack-_full04.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/heineken_heineken-can-beer--4-pack-_full04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>279</ymin>
+			<xmax>220</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>2.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>12</ymin>
+			<xmax>402</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

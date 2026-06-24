@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>TOURNAMENT_2-600x600.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/TOURNAMENT_2-600x600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>68</ymin>
+			<xmax>538</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

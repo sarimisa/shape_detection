@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>1056145-ASSORTED-1-8fH.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/1056145-ASSORTED-1-8fH.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>144</ymin>
+			<xmax>1351</xmax>
+			<ymax>1357</ymax>
+		</bndbox>
+	</object>
+</annotation>

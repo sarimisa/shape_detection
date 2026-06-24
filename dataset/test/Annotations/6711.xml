@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>6711.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/6711.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>64</ymin>
+			<xmax>956</xmax>
+			<ymax>941</ymax>
+		</bndbox>
+	</object>
+</annotation>

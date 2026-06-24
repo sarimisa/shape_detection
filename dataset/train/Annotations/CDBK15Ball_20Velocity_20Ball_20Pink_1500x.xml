@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>CDBK15Ball_20Velocity_20Ball_20Pink_1500x.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/CDBK15Ball_20Velocity_20Ball_20Pink_1500x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>65</ymin>
+			<xmax>1438</xmax>
+			<ymax>1472</ymax>
+		</bndbox>
+	</object>
+</annotation>

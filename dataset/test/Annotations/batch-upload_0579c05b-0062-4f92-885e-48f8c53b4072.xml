@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>batch-upload_0579c05b-0062-4f92-885e-48f8c53b4072.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/batch-upload_0579c05b-0062-4f92-885e-48f8c53b4072.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>12</ymin>
+			<xmax>409</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

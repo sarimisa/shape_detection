@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>s2503001-main-zoom.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/s2503001-main-zoom.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>213</ymin>
+			<xmax>1799</xmax>
+			<ymax>1789</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>1778-Cone-Party-Hats_20e05b0d-33ce-42bb-808f-e7b41ecf308d_800x.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/1778-Cone-Party-Hats_20e05b0d-33ce-42bb-808f-e7b41ecf308d_800x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>11</ymin>
+			<xmax>604</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

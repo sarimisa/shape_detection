@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>jumbo-beach-ball-46_1200x1200.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/jumbo-beach-ball-46_1200x1200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>41</ymin>
+			<xmax>950</xmax>
+			<ymax>950</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>medicine-ball-exercises-1542669542.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/medicine-ball-exercises-1542669542.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>685</ymin>
+			<xmax>606</xmax>
+			<ymax>1111</ymax>
+		</bndbox>
+	</object>
+</annotation>

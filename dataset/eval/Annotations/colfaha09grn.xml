@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>colfaha09grn.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/colfaha09grn.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>1</ymin>
+			<xmax>1324</xmax>
+			<ymax>1600</ymax>
+		</bndbox>
+	</object>
+</annotation>

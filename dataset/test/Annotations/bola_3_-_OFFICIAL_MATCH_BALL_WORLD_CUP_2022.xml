@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>bola_3_-_OFFICIAL_MATCH_BALL_WORLD_CUP_2022.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/bola_3_-_OFFICIAL_MATCH_BALL_WORLD_CUP_2022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>927</xmin>
+			<ymin>152</ymin>
+			<xmax>1813</xmax>
+			<ymax>1013</ymax>
+		</bndbox>
+	</object>
+</annotation>

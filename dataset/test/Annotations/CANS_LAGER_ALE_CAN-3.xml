@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>CANS_LAGER_ALE_CAN-3.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/CANS_LAGER_ALE_CAN-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1100</width>
+		<height>1100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>189</ymin>
+			<xmax>770</xmax>
+			<ymax>910</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>kl05449_-_aluminium_cans_wide_mouth_-_silver.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/kl05449_-_aluminium_cans_wide_mouth_-_silver.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>132</ymin>
+			<xmax>671</xmax>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+</annotation>

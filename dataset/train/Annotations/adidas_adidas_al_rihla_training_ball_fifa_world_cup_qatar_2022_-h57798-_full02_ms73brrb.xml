@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>adidas_adidas_al_rihla_training_ball_fifa_world_cup_qatar_2022_-h57798-_full02_ms73brrb.jpeg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/adidas_adidas_al_rihla_training_ball_fifa_world_cup_qatar_2022_-h57798-_full02_ms73brrb.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>121</ymin>
+			<xmax>875</xmax>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+</annotation>

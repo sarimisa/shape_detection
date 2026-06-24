@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>pink_polka_dot_hat.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/pink_polka_dot_hat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1099</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>35</ymin>
+			<xmax>1060</xmax>
+			<ymax>1464</ymax>
+		</bndbox>
+	</object>
+</annotation>

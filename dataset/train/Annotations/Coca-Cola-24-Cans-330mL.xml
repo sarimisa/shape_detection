@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>Coca-Cola-24-Cans-330mL.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/Coca-Cola-24-Cans-330mL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>68</ymin>
+			<xmax>729</xmax>
+			<ymax>929</ymax>
+		</bndbox>
+	</object>
+</annotation>

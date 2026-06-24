@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>coca-cola-original-taste-mini-cans-multipack-multi.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/coca-cola-original-taste-mini-cans-multipack-multi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>201</ymin>
+			<xmax>440</xmax>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>SC1911117.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/SC1911117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1425</width>
+		<height>1425</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>76</ymin>
+			<xmax>1362</xmax>
+			<ymax>1352</ymax>
+		</bndbox>
+	</object>
+</annotation>

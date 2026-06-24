@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>kids-size-2-hybrid-handball-ball-orangeslashgrey.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/kids-size-2-hybrid-handball-ball-orangeslashgrey.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>133</ymin>
+			<xmax>2361</xmax>
+			<ymax>2371</ymax>
+		</bndbox>
+	</object>
+</annotation>

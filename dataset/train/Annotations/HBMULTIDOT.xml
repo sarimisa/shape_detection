@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>HBMULTIDOT.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/HBMULTIDOT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>250</ymin>
+			<xmax>1496</xmax>
+			<ymax>1719</ymax>
+		</bndbox>
+	</object>
+</annotation>

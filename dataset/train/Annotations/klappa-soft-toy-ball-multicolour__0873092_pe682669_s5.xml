@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>klappa-soft-toy-ball-multicolour__0873092_pe682669_s5.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/klappa-soft-toy-ball-multicolour__0873092_pe682669_s5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>83</ymin>
+			<xmax>1319</xmax>
+			<ymax>1251</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>fc-barcelona-strike-football-D984rK.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/fc-barcelona-strike-football-D984rK.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>50</ymin>
+			<xmax>545</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

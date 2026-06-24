@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>Party_Hat.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/Party_Hat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>190</ymin>
+			<xmax>513</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+</annotation>

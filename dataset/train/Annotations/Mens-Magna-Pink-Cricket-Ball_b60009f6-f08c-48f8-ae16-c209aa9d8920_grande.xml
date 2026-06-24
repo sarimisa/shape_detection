@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>Mens-Magna-Pink-Cricket-Ball_b60009f6-f08c-48f8-ae16-c209aa9d8920_grande.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/Mens-Magna-Pink-Cricket-Ball_b60009f6-f08c-48f8-ae16-c209aa9d8920_grande.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>51</ymin>
+			<xmax>351</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

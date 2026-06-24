@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>3_piece_can_new_03.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/3_piece_can_new_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>823</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>74</ymin>
+			<xmax>636</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+</annotation>

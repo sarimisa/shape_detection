@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>Empty_tin_can2009-01-19.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/Empty_tin_can2009-01-19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>3872</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>592</ymin>
+			<xmax>2066</xmax>
+			<ymax>3339</ymax>
+		</bndbox>
+	</object>
+</annotation>

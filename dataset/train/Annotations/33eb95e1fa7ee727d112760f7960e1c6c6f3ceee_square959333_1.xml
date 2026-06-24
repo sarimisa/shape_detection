@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>33eb95e1fa7ee727d112760f7960e1c6c6f3ceee_square959333_1.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/3d_shape_detection/dataset/33eb95e1fa7ee727d112760f7960e1c6c6f3ceee_square959333_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>123</ymin>
+			<xmax>691</xmax>
+			<ymax>877</ymax>
+		</bndbox>
+	</object>
+</annotation>
