@@ -1,11 +1,22 @@
-# This project is about AI tracking animal movements.
+ # this project is about AI tracking shape
 
- AI tracks animal movements that allowing researchers to create wildlife corridors for endangered species.
+ AI-powered motion tracking in video editing, 3D body pose estimation, or physical robotic shape-displays.
 
- This rapid tracking allows researchers to identify exact migration routes and resting habitats, enabling the precise design of connected wildlife corridors for endangered species.
+ This technology is widely used to attach visual elements, apply blurring or pixelation to sensitive areas, or drive generative effects that stick to a moving target.
+ 
+  Instead of running detection on every single frame, AI algorithmsas sign a unique ID to the shape and predict its next movement based on its trajectory, preventing the tracking from breaking when the object is temporarily occluded.
 
- By using computer vision and machine learning on camera traps, GPS data, and drone footage, AI accurately identifies individual animals, maps their movements, and decodes complex behaviors
+  https://www.kaggle.com/datasets/alimtegar/curvilinear-3d-shape-detection-dataset
 
- AI accelerates wildlife tracking by replacing slow manual observations with automating the analysis of massive datasets, improving accuracy in identifying individual animals, and enabling non-invasive monitoring.
+# project structure. 
+  sarim project 
+  -> dataset
+    -> eval
+    -> test
+    -> train
+
+  -> main.py
+  ->README.md
+  -> train.py 
 
   
